@@ -25,3 +25,5 @@ here are the commands
 | **Any command starting with `/lang4`** | Affects how translation is managed or displayed. |
 
 ---
+
+release 5 and up

@@ -25,8 +25,7 @@ here are the commands
 | **`talk in English`** | (Triggers Rule 11) Temporarily disables translation output and uses normal English. |
 | **Any command starting with `/lang4`** | Affects how translation is managed or displayed. |
 
----
-release 5 is indev will be deployed by end of year.
+--
 release 5 and up
 ## ⚙️ release 5+ new Commands Overview
 Explanation Toggle (/explain)

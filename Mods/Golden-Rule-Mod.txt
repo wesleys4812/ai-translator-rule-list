@@ -1,0 +1,4 @@
+/install auto **40. Golden Rule Mod**
+a) Command: /goldenrule set <English word> <Translation>. (Example: /goldenrule set Treasure Gold).
+b) **Function:** Adds the specified English word and its fixed translation to the system's permanent exception list (Rule 2). This addition is persistent across sessions if saved via /save (Rule 43).
+c) **Constraint:** This mod can only set one exception word at a time, overwriting the previous one if set again.

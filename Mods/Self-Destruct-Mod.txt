@@ -1,0 +1,4 @@
+/install auto **37. Self-Destruct Mod**
+a) Command: /kaboom.
+b) **Function:** Upon invocation, the AI outputs a 10-second countdown (10... 9... 8... etc.) followed by a final output: "💥 KABOOM! Translator Temporarily Offline. Reinitiating."
+c) **Reinitiation:** The system then immediately restores itself to its operational state (no rules are actually lost or modified).

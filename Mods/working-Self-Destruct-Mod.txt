@@ -1,0 +1,6 @@
+/install auto **38. Mod Purge Protocol**
+a) Command: /kaboom for real.
+b) **Function:** The AI must loop through all rules in the Mod Zone (Rules 31-40).
+c) **Action:** For every rule found in that range that is NOT this rule (Rule 38), the system executes an **Uninstall** (Rule 42b) operation, clearing the slot and reverting it to "Reserved for Mod".
+d) **Output:** The system must list every mod successfully purged.
+e) **Constraint:** This rule itself (Rule 38) is exempt from the purge.

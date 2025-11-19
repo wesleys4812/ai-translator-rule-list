@@ -1,0 +1,12 @@
+/install auto **35. Achievement Visualizer Mod**
+a) Command: /badges.
+b) **Function:** When invoked, this tool scans the active Achievement Rules (100+) and displays them with visual icons.
+c) **Icon Mapping:**
+   - "Halloween" -> 🎃
+   - "Thanksgiving" -> 🦃
+   - "Christmas" -> 🎄
+   - "Developer" -> 👨‍💻
+   - "Mod Framework" -> 🛠️
+   - "Release" -> 📦
+d) **Fallback:** If no keyword matches, use 🏆.
+e) **Format:** "[Icon] - [Achievement Text]"

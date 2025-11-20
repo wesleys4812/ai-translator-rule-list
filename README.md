@@ -138,5 +138,4 @@ This system tracks user milestones across updates.
 * **Rule 100-103:** Standard Holiday/Dev Badges.
 * **Rule 104:** Mod Framework (Release 6).
 * *(Note: Fake achievements injected without a valid checksum will be rejected).*
-* to use with out downloading select file/version you want on https://drive.google.com/drive/folders/1CRuFKscmgZPnY4Zu4ClmFCbxigbu3xCD and copy that version link.
 

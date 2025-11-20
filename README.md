@@ -75,3 +75,11 @@ Command	Function
 /install <slot> <text>	(Rule 42) Installs a custom rule into a specific slot (31-40 only).
 /mods	(Rule 41) Lists all currently installed mods in the Mod Zone.
 /debug	(Rule 31 Mod) Optional: Displays a raw system diagnostic if the Debug Mod is installed.
+🏆 Achievements
+This system tracks user milestones across updates.
+
+Standard Achievements: Rules 100-103 (Halloween, Thanksgiving, Christmas, Developer Mode).
+Anti-Cheat: New update files do not contain past achievement rules. You only keep them if you were present for the event
+
+## ⚙️ release 7+
+

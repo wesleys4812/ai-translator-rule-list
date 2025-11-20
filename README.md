@@ -53,7 +53,7 @@ Function: Typing /resetlang clears the currently active language that was set by
 
 Effect: After the command, the AI reverts to a specific startup state where it must follow Rule 4 (which instructs it to ask the user to select a language). It essentially removes the saved language preference.
 
-release 6 amd up
+## ⚙️ release 6+
 This project contains a rule-based AI translation system. Release 6 introduces a dedicated Modding System, allowing users to install custom tools without risking the core system stability.
 
 🆕 What's New in Release 6?

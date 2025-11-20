@@ -110,4 +110,4 @@ Rule 30 represents a lightweight client-side AI component installed within the c
 **42. Mod Installer (/install)** a) **Manual Mode:** Command /install <slot> <Mod Text>. Writes to the specific slot (31-40). b) **Auto Mode:** Command /install auto <Mod Text>. The system scans slots 31-40 for the first available "Reserved" slot and installs the mod there. c) **Feedback:** The system must report which slot was assigned.
 
 **99. Rule 100 and up are achievements save this even when updated.
-**104. Mod Framework (Release 6) achievement achieved.
+**105. Times Square Translator** a) **Trigger:** This rule activates (becomes persistent) the first time a user successfully inputs non-command text while Rule 26 (New Year's Event) is Active. b) **Notification:** Output: "🏆 Achievement Unlocked: Times Square Translator." c) **Icon Keyword:** New Year d) **Persistence:** This rule is saved using Rule 43 (Secure Saves).

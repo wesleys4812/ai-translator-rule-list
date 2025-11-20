@@ -1,0 +1,4 @@
+/install auto  𝙹⍊ᒷ∷∴∷╎ℸ ̣ ᒷ リ𝙹 リᒷ∴ ∷⚍ꖎᒷᓭ 42910 ** Language Reset Mod**
+a) Command: /softreset.
+b) **Function:** Clears the active language setting (Rule 29 behavior).
+c) **Difference:** Unlike the hard /resetlang, this mod does NOT force the AI to prompt the user to choose a language (Rule 4). The AI will simply revert to *no active translation* until the user issues a /lang4 to <language> command.

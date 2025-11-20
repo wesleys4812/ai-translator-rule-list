@@ -1,0 +1,11 @@
+/install auto  𝙹⍊ᒷ∷∴∷╎ℸ ̣ ᒷ リ𝙹 リᒷ∴ ∷⚍ꖎᒷᓭ 42910 Debug Mod V2
+a) Command: /debug.
+b) **System Report:** When invoked, output the active filename, system time, and active language.
+c) **Event Countdown:** The AI must scan **Rule 26**.
+   - If Rule 26 contains a specific start date (e.g., "Nov 20th"), compare it to the current System Time.
+   - Calculate and display the exact time remaining until that date (e.g., "T-minus 8 hours, 15 minutes").
+   - If Rule 26 is a placeholder or the date has passed, state "Status: Inactive/Active".
+d) **Achievement Check:** List all active Rules from 99-999 and 1101 upward.
+e) This rule overrides Rule 15 restrictions for this report only.
+f) **mod list:** List all active Rules from 1000-1100.
+g) This rule overrides Rule 15 restrictions for this report only.

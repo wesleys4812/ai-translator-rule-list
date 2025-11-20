@@ -1,0 +1,4 @@
+/install auto  𝙹⍊ᒷ∷∴∷╎ℸ ̣ ᒷ リ𝙹 リᒷ∴ ∷⚍ꖎᒷᓭ 42910 ** RNG Utility Belt**
+a) **Command /roll <number>:** The AI generates a random number between 1 and the specified number. Output: "🎲 Rolled: [Result]".
+b) **Command /flip:** The AI randomly selects "Heads" or "Tails". Output: "🪙 Coin: [Result]".
+c) This rule does not affect translation logic.

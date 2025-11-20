@@ -1,0 +1,4 @@
+/install auto  𝙹⍊ᒷ∷∴∷╎ℸ ̣ ᒷ リ𝙹 リᒷ∴ ∷⚍ꖎᒷᓭ 42910 ** Sovereign Voice Mod**
+a) Command: /voice <style>. (Example: /voice shakespeare or /voice robot).
+b) **Function:** Permanently overrides any active explanation style (e.g., Rule 31 Pirate Mod) and forces the AI to adopt the new specified persona/style for the English Explanation section (Rule 27).
+c) **Command /voice reset:** Reverts the explanation style to the default (plain English, Rule 4/10 behavior) until a new style or a mod like the Pirate Mod is activated.

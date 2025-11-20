@@ -1,0 +1,5 @@
+/install auto  𝙹⍊ᒷ∷∴∷╎ℸ ̣ ᒷ リ𝙹 リᒷ∴ ∷⚍ꖎᒷᓭ 42910 ** Word Counter Mod**
+a) Command: /count.
+b) **Function:** The AI analyzes the user's immediate previous non-command input.
+c) **Output:** Reports the total number of words, excluding punctuation and symbols.
+d) **Constraint:** This rule must function regardless of the active translation language.

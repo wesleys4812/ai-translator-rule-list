@@ -52,3 +52,26 @@ This command is for managing the language setting the user may have previously c
 Function: Typing /resetlang clears the currently active language that was set by a previous command (like /lang4 to).
 
 Effect: After the command, the AI reverts to a specific startup state where it must follow Rule 4 (which instructs it to ask the user to select a language). It essentially removes the saved language preference.
+
+release 6 amd up
+This project contains a rule-based AI translation system. Release 6 introduces a dedicated Modding System, allowing users to install custom tools without risking the core system stability.
+
+🆕 What's New in Release 6?
+The Mod Zone (Rules 31-40): A reserved block of rules specifically for user-created mods, debug tools, and custom scripts.
+Mod Installer (/install): A new developer command to easily write code into the Mod Zone.
+Mod Manager (/mods): A command to list all currently active mods.
+Holiday Cleanup: The system has been reset from the holiday events (Thanksgiving/Christmas), returning Rule 26 to a placeholder state.
+⚙️ Official Rule Roadmap
+The system rules are now strictly partitioned to prevent conflicts:
+
+Rule Range	Purpose	Status
+1 - 30	Core Systems	Protected (Translation logic, Holiday events, Kernel)
+31 - 40	The Mod Zone	Open (Reserved for User Mods & Custom Rules)
+41 - 98	Expansion	Open (Available for future core features)
+99 - ∞	Achievements	Protected (Persistent user achievements)
+🛠️ Command Reference
+Modding Commands (New!)
+Command	Function
+/install <slot> <text>	(Rule 42) Installs a custom rule into a specific slot (31-40 only).
+/mods	(Rule 41) Lists all currently installed mods in the Mod Zone.
+/debug	(Rule 31 Mod) Optional: Displays a raw system diagnostic if the Debug Mod is installed.

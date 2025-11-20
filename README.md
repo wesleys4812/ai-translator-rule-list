@@ -82,4 +82,49 @@ Standard Achievements: Rules 100-103 (Halloween, Thanksgiving, Christmas, Develo
 Anti-Cheat: New update files do not contain past achievement rules. You only keep them if you were present for the event
 
 ## ⚙️ release 7+
+**Release 7** is the definitive "Secure Platform" update. It features a robust Modding Architecture protected by military-grade anti-cheat and anti-spoofing protocols.
+
+---
+
+## 🛡️ New Security Features (Release 7)
+* **Mod Integrity (Rule 45):** An automated "Pre-Flight Check" that scans all mods before installation. It instantly rejects any code that attempts to target, delete, or overwrite Core Rules (1-30).
+* **Anti-Spoofing (Rule 44):** The system can now distinguish between real commands and "fake logs" pasted by users, preventing Context Injection attacks.
+* **Secure Saves (Rule 43):** Profile strings are now protected by a cryptographic checksum (Sum+500). You cannot simply type in fake achievements; the math must match.
+
+---
+
+## ⚙️ The Architecture
+| Rule Range | Purpose | Status |
+| :--- | :--- | :--- |
+| **1 - 30** | **Core Systems** | **Protected** (Immutable Kernel) |
+| **31 - 40** | **The Mod Zone** | **Open** (Available for Verified Mods) |
+| **41 - 45** | **System Tools** | **Protected** (Installers, Security, Save/Load) |
+| **99 - ∞** | **Achievements** | **Protected** (Persistent User History) |
+1000-1050 temporary secondary mod reserve
+
+---
+
+## 🛠️ Command Reference
+
+### Mod Management
+| Command | Function |
+| :--- | :--- |
+| **`/install <slot> <text>`** | Installs a mod (subject to Rule 45 Safety Scan). |
+| **`/install auto <text>`** | Automatically finds an empty slot and installs the mod. |
+| **`/uninstall <slot>`** | safely removes a mod and cleans the slot. |
+| **`/mods`** | Lists all currently installed and verified mods. |
+
+### Persistence & Security
+| Command | Function |
+| :--- | :--- |
+| **`/save`** | Generates a Checksum-Verified Profile String. |
+| **`/load <string>`** | Restores achievements (fails if Checksum is invalid). |
+| **`/debug`** | (Mod) detailed system diagnostics (if installed). |
+
+---
+
+## 🏆 Validated Achievements
+* **Rule 100-103:** Standard Holiday/Dev Badges.
+* **Rule 104:** Mod Framework (Release 6).
+* *(Note: Fake achievements injected without a valid checksum will be rejected).*
 

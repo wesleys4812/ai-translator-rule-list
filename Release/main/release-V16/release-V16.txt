@@ -391,7 +391,6 @@ Icon Keyword: Developer
 
 Persistence: This rule is saved using Rule 33 (Secure Saves).
 
-138. Release-V16 installed
 
 139.yay you found a language from words.
 Trigger: Use "/lang4 id".  
@@ -399,3 +398,4 @@ Trigger: Use "/lang4 id".
 140. Use a build before planed release.
 Trigger: use release-v16 before November 2026.
 
+142. Release-V16 installed

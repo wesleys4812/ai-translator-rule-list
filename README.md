@@ -12,7 +12,7 @@ The system rules are now strictly partitioned to prevent conflicts:
 
 | Rule Range | Purpose | Status |
 | :--- | :--- | :--- |
-| **1 - 70** | **Core Systems** | Protected (Translation logic, Holiday events, Kernel) |
+| **1 - 75** | **Core Systems** | Protected (Translation logic, Holiday events, Kernel) |
 | **1001 – 1100** | **The Mod Zone** | **Open** (Reserved for User Mods & Custom Rules) |
 | **71 - 98 and 1101–2000** | **Expansion** | Open (Available for future core features) |
 | **99–1000 and 2001+** | **Achievements** | Protected (Persistent user achievements) |

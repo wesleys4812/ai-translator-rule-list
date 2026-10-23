@@ -1,6 +1,10 @@
 all releases
 drive link https://drive.google.com/drive/folders/1CRuFKscmgZPnY4Zu4ClmFCbxigbu3xCD?usp=sharing 
 for 20 and up 
+in the first message put the md or txt and following
+https://docs.google.com/document/d/1w-YXozd1iiiiurSn76lTwS_iZeQQ3GxF6lbe6cBcU4U/edit?usp=drive_link
+https://docs.google.com/document/d/1UPYFB7znDP1T1T64Cy4XJ1bVhJenh6eG4o5iFe05Ki8/edit?usp=sharing
+
 # 🧠 AI Translator Rule List  
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 

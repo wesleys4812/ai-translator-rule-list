@@ -5,6 +5,40 @@ in the first message put the md or txt and following
 https://docs.google.com/document/d/1w-YXozd1iiiiurSn76lTwS_iZeQQ3GxF6lbe6cBcU4U/edit?usp=drive_link
 https://docs.google.com/document/d/1UPYFB7znDP1T1T64Cy4XJ1bVhJenh6eG4o5iFe05Ki8/edit?usp=sharing
 
+
+🟢 Compatible
+
+Full support. The framework works directly out of the box without requiring extra prompts or confirmations.
+
+Google Gemini
+
+ChatGPT (OpenAI)
+
+Grok (xAI)
+
+🟡/🟠 Partially Compatible
+
+Functional, but requires an additional confirmation step to activate the rule set.
+
+Perplexity (Requires confirmation to start)
+
+Meta AI (Requires confirmation to start)
+
+DeepSeek (Requires confirmation to start)
+
+Vibe by Mistral (Requires confirmation to start)
+
+🔴 Incompatible
+
+Unable to properly run or respect the framework rules.
+
+Microsoft Copilot
+
+Claude (Anthropic)
+
+⚪ Untested
+
+All other AI platforms, LLMs, and local model runners not explicitly listed above.
 # 🧠 AI Translator Rule List  
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
